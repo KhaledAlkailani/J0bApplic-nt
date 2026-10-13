@@ -111,13 +111,9 @@ The case reinforced several areas that matter in real incident response:
 
 These are general defensive lessons, not a claim that every control was assessed or remediated during this Sherlock.
 
-## About publication and screenshots
+## About publication
 
 This is a **personal learning and investigation portfolio**, based on an authorized Hack The Box lab. It is not a real-world incident report.
-
-To keep the repository useful without spoiling the challenge, this README does not include task answers, attack-specific indicators, or a complete solution path. Screenshots can be added once reviewed and redacted as appropriate. Original HTB evidence files, executable payloads, and other challenge assets are not redistributed here.
-
-Before publishing a full walkthrough, verify that **JobApplicant is listed as Retired**. Hack The Box permits public solutions for retired Sherlocks but does not permit spoilers for active ones. See the [official publication guidelines](https://help.hackthebox.com/en/articles/5188925-streaming-writeups-walkthrough-guidelines).
 
 ---
 
